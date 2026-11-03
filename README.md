@@ -85,28 +85,37 @@ I enjoy exploring different fields, experimenting with new technologies, and tur
 
 ## 🌸 03 / SELECTED WORKS
 
-<div align="center">
+<table>
+<tr>
+<td width="100%" valign="top">
 
-<a href="https://github.com/Itsuka564/cv-tapi-pke-react-tailwind">
+### 🖥️ Personal CV Website
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Itsuka564&repo=cv-tapi-pke-react-tailwind&theme=dark&bg_color=160F0E&title_color=F5E6D3&icon_color=D9A45B&text_color=F5E6D3&border_color=6B3035"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Itsuka564?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6B3035?style=for-the-badge&logo=github&logoColor=F5E6D3"/>
-
-</a>
+A personal portfolio website built with React and Tailwind CSS, featuring a custom visual identity inspired by Persona 4.
 
 <br/>
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-382522?style=flat-square&logo=react&logoColor=F5E6D3)
+![Tailwind](https://img.shields.io/badge/Tailwind-382522?style=flat-square&logo=tailwindcss&logoColor=F5E6D3)
+![JavaScript](https://img.shields.io/badge/JavaScript-382522?style=flat-square&logo=javascript&logoColor=F5E6D3)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-6B3035?style=for-the-badge&logo=github&logoColor=F5E6D3)](https://github.com/Itsuka564/cv-tapi-pke-react-tailwind)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-382522?style=for-the-badge&logo=github&logoColor=F5E6D3)](https://github.com/Itsuka564?tab=repositories)
 
 *Some experiments, projects, and things I've built along the way.*
 
 </div>
-
 ---
 
 ## 🌸 04 / GITHUB ACTIVITY
