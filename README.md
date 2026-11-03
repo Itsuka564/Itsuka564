@@ -89,13 +89,25 @@ I don't like limiting myself to just one field. I enjoy experimenting, learning 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itsuka564&show_icons=true&hide_border=true&bg_color=161817&title_color=FFF000&icon_color=FE9F10&text_color=FFFFFF&hide_title=false"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsuka564&layout=compact&hide_border=true&bg_color=161817&title_color=FFF000&text_color=FFFFFF"/>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuka564&theme=github_dark"
+  alt="GitHub Profile Summary"
+/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Itsuka564&hide_border=true&background=161817&ring=FFF000&fire=FE9F10&currStreakLabel=FFF000&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itsuka564&theme=github_dark"
+  alt="GitHub Statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=Itsuka564&theme=github_dark"
+  alt="Most Used Languages"
+/>
 
 </div>
 
