@@ -97,17 +97,15 @@ I don't like limiting myself to just one field. I enjoy experimenting, learning 
 
 <br/><br/>
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Itsuka564&theme=github_dark"
-  alt="GitHub Statistics"
-/>
+<div align="center">
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-language?username=Itsuka564&theme=github_dark"
-  alt="Most Used Languages"
+  width="100%"
+  src="https://raw.githubusercontent.com/Itsuka564/Itsuka564/output/metrics.svg"
+  alt="GitHub Metrics"
 />
+
+</div>
 
 </div>
 
